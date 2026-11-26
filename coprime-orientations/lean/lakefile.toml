@@ -1,0 +1,6 @@
+name = "coprime_orientations"
+version = "0.1.0"
+defaultTargets = ["CoprimeOrientations"]
+
+[[lean_lib]]
+name = "CoprimeOrientations"
